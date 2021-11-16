@@ -3,7 +3,7 @@
 
 # About project
 
-A professional resume created using HTML and CSS in module 1 of **Santander Coders 2021**.
+Static page created using HTML and CSS. The purpose of this project was to create a professional resume. This was a project from module 1 of **Santander Coders 2021**.
 
 ## Layout web
 ![Web 1](https://github.com/josebiaggio/professional-resume-example/blob/main/assets/professional-resume-example.png)
