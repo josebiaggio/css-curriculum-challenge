@@ -1,3 +1,22 @@
-# professional-resume-example
-Professional resume created using HTML and CSS
-Module 1 Santander Coders 2021
+# Professional resume example 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/josebiaggio/professional-resume-example/blob/main/LICENSE) 
+
+# About project
+
+A professional resume created using HTML and CSS in module 1 of **Santander Coders 2021**.
+
+## Layout web
+![Web 1](https://github.com/josebiaggio/professional-resume-example/blob/main/assets/professional-resume-example.png)
+
+# Technologies used
+
+<div style="display: inline_block"><br>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
+
+# Author
+
+José Biaggio
+
+https://br.linkedin.com/in/josebiaggio
