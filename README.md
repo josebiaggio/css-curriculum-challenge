@@ -1,2 +1,3 @@
-# lets-code-desafio-css
-Desafio CSS do módulo 1 do curso Web FullStack da Let's Code
+# professional-resume-example
+Professional resume created using HTML and CSS
+Module 1 Santander Coders 2021
